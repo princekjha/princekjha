@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Prince Kumar Jha</h1>
 <h3 align="center">Welcome to my GitHub account! I'm thrilled to have you here and excited to share my projects with you.</h3>
-<img align="right" alt="Coding" width="330" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekjha&label=Profile%20views&color=0e75b6&style=flat" alt="princekjha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekjha" alt="princekjha" /></a> </p>
 
 - 🔭 I’m currently working on **Data science**
 
