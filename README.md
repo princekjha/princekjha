@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E12AQEGTEYGXTdQkw/article-cover_image-shrink_600_2000/0/1657184118651?e=2147483647&v=beta&t=D7oCDbP0uHQZHFtBA_5urrMqX5flYDLx5fm32C5oWYU)](https://codegrills.in)
 
-<h1 align="center">Hi 👋, I'm Prince Kumar Jha</h1>
+<h1 align="center">नमस्ते 👋, I'm Prince Kumar Jha</h1>
 <h3 align="center">Welcome to my GitHub account! I'm thrilled to have you here and excited to share my projects with you.</h3>
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODczMDllNGRmNGZmZGE1N2U3ZGJlNjc2Y2RmZGU1ZTdlMDc2ZTNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
